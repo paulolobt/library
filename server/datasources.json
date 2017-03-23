@@ -1,0 +1,8 @@
+{
+  "inmemoryDS": {
+    "name": "inmemoryDS",
+    "localStorage": "library",
+    "file": "database",
+    "connector": "memory"
+  }
+}

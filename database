@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "author": 3,
+    "book": 2
+  },
+  "models": {
+    "author": {
+      "1": "{\"firstName\":\"José\",\"lastName\":\"Sarney\",\"id\":1}",
+      "2": "{\"firstName\":\"Gustavo\",\"lastName\":\"Lima\",\"id\":2}"
+    },
+    "book": {
+      "1": "{\"title\":\"Livro 01\",\"authorId\":1,\"id\":1}"
+    }
+  }
+}
